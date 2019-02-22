@@ -6,7 +6,9 @@ The project is to convert the accent of a recorded sample from and to British, M
 ### Team Members
 
 **Yanda Chen**    ydachen AT ucdavis DOT edu
+
 **Pragati Sharma**   psharm AT ucdavis DOT edu
+
 **Kourosh Vali**    kvali AT ucdavis DOT edu
 
 
