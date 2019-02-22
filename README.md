@@ -14,7 +14,7 @@ The project is to convert the accent of a recorded sample from and to British, M
 
 ### Full Project Discription
 
-** Accent Transformation Project **
+**Accent Transformation Project**
 
 1. Programming tasks: Build a voice conversion tool with which a spoken sentence of choice can be transformed into one with a specific accent. The choices of accents will be the Midwest, Southern, or British accent.
 2. Design specifications: The completed GUI must allow the user to
