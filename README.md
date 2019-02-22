@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Cover Page
 
-You can use the [editor on GitHub](https://github.com/kvali7/Accent-Changer-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website is created for the class project for EEC201 course at University of California, Davis Winter Quarter 2019.
+The project is to convert the accent of a recorded sample from and to British, Midwest, and Southern accents.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Team Members
 
-### Markdown
+**Yanda Chen**    ydachen AT ucdavis DOT edu
+**Pragati Sharma**   psharm AT ucdavis DOT edu
+**Kourosh Vali**    kvali AT ucdavis DOT edu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Full Project Discription
 
-# Header 1
-## Header 2
-### Header 3
+** Accent Transformation Project **
 
-- Bulleted
-- List
+1. Programming tasks: Build a voice conversion tool with which a spoken sentence of choice can be transformed into one with a specific accent. The choices of accents will be the Midwest, Southern, or British accent.
+2. Design specifications: The completed GUI must allow the user to
+- Record a sentence by reading from a text. Recognize the phonemes in the sentence.
+- Select the accent one wishes to transform the recorded sentence into and map the phonemes in the accented sentence.
+- Implement an LPC vocoder and synthesizer (Matlab) to regenerate the voice
+3. Tests and Demonstration: Each team will be asked to step in front of the class to demon-
+strate in 5 minutes their software interactively (best with a GUI). The test requirements are: (a) Record another student’s voice for the program to analyze and convert;
+(b) Play back the result.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kvali7/Accent-Changer-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
