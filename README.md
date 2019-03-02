@@ -25,3 +25,8 @@ The project is to convert the accent of a recorded sample from and to British, M
 strate in 5 minutes their software interactively (best with a GUI). The test requirements are: (a) Record another student’s voice for the program to analyze and convert;
 (b) Play back the result.
 
+
+### Interim Report For the project
+ [Interim Report](https://drive.google.com/a/ucdavis.edu/file/d/1VKtZwVMA-t8wm9DY0WFUFaZ25nJpapyf/view?usp=sharing)
+
+
