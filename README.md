@@ -47,7 +47,7 @@ strate in 5 minutes their software interactively (best with a GUI). The test req
  
  
  ### Demo
- [Demo](https://drive.google.com/a/ucdavis.edu/file/d/1hkBaUgxtRNGqoQtfvxQJl7gglSvZnVjG/view?usp=sharing)
+ [Demo](https://youtu.be/GEdYXxr8M6Q)
  
 
 
